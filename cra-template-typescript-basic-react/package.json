@@ -1,6 +1,6 @@
 {
   "name": "cra-template-typescript-basic-react",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description" : "This is TypeScript template for basic-react App",
   "keywords": ["react", "create-react-app", "typescript","custom template", "basic-react"],
   "repository": {
